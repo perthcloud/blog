@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Blog One
+title: First test post
 ---
 
-First test post
+<h1>{{ page.title }}</h1>
 
 And this is a bit more text to the post!
